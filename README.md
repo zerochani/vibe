@@ -2,6 +2,7 @@
 
 [![Next.js](https://img.shields.io/badge/Next.js-15.3.6-black)](https://nextjs.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-green)](https://fastapi.tiangolo.com/)
+[![Built with Claude](https://img.shields.io/badge/Built_with-Claude_Sonnet_4.5-8A2BE2?logo=anthropic)](https://claude.ai)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 **배달 라이더를 위한 열 스트레스 안전 경로 시스템**
@@ -327,6 +328,19 @@ CORS_ORIGINS=*
 - [FastAPI Documentation](https://fastapi.tiangolo.com/)
 - [Next.js Documentation](https://nextjs.org/docs)
 
+## 🤖 Claude AI Collaboration
+
+이 프로젝트는 **Anthropic의 Claude Code (Sonnet 4.5)**를 활용하여 개발되었습니다.
+
+### 주요 기여
+- Modified A* 경로 최적화 알고리즘 설계 및 구현
+- 전체 프론트엔드 & 백엔드 아키텍처 구축
+- 도로 타입별 열 환경 차별화 로직
+- Render + Vercel 배포 자동화
+- 25개 세션, 총 3.8MB의 개발 히스토리
+
+자세한 내용은 [CLAUDE_COLLABORATION.md](CLAUDE_COLLABORATION.md)를 참조하세요.
+
 ## 📧 문의
 
 프로젝트에 대한 질문이나 제안이 있으시면 GitHub Issues를 통해 연락주세요.
@@ -334,3 +348,5 @@ CORS_ORIGINS=*
 ---
 
 **Built with ❤️ for delivery riders facing extreme heat**
+
+**Powered by Claude Sonnet 4.5 🤖**
