@@ -271,7 +271,7 @@ CORS_ORIGINS=*
 
 ### 메인 페이지
 <p align="center">
-  <img src="./vibe/스크린샷 2025-12-13 오후 3.18.46.png" width="85%" alt="Main Page Screenshot" />
+  <img src="./스크린샷 2025-12-13 오후 3.18.46.png" width="85%" alt="Main Page Screenshot" />
 </p>
 
 ### 경로 비교
